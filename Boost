@@ -1,0 +1,7 @@
+# RPG em C++
+
+Este é um projeto simples de RPG em C++ utilizando a biblioteca Boost.
+
+## Dependências
+
+- Boost (v1.0 ou superior): Para baixar e instalar o Boost, acesse o site oficial [Boost.org](https://www.boost.org/).
